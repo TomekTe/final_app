@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Formularz zgłoszeniowy</title>
 </head>
 <body>
 <jsp:include page="test.html"/>
