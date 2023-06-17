@@ -1,0 +1,23 @@
+
+.btn-group a{
+    background-color: #ffffff;
+    color: #44aaaa;
+    border: 5px solid #44aaaa;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 10px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    text-transform: uppercase;
+    margin:100px 5px;
+    display: inline-block;
+}
+.btn-group a:hover{
+    background-color: #44aaaa;
+    color: #ffffff;
+    border: 1px solid #44aaaa;
+}
+.btn-group{
+    text-align: center;
+}
+
